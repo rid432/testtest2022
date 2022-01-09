@@ -1,0 +1,1 @@
+1) create 2 EC2 instances running in diff or same region , running userdata or apache , now run loadbalancing and ASG on this 2 instances 
